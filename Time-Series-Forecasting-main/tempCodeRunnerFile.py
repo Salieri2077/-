@@ -1,0 +1,1 @@
+np.load('./results/'+setting+'/metrics.npy')
